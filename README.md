@@ -20,7 +20,7 @@ Your project is live at:
 
 Continue building your app on:
 
-**[https://v0.dev/chat/projects/EQZY41AHBxF](https://v0.dev/chat/projects/EQZY41AHBxF)**
+
 
 ## How It Works
 
