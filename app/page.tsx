@@ -246,10 +246,11 @@ export default function LoginPage() {
           <Card className="bg-yellow-50 border-yellow-200">
             <CardContent className="p-4">
               <div className="text-center">
-                <h3 className="font-medium text-yellow-800 mb-2">Sistema de Dupla Validação</h3>
+                <h3 className="font-medium text-yellow-800 mb-2">IMT-Trabalho Integrador-ADM</h3>
                 <p className="text-sm text-yellow-700">
-                  Cada solicitação precisa ser aprovada por dois gerentes diferentes para garantir maior controle e
-                  segurança no processo de compras.
+                  Essa aplicação é somente uma demonstração de viabilidade funcional, desenvolvida com fins acadêmicos para ilustrar como um sistema de compras estruturado pode operar na prática.
+                  Marcos V F Denani,Gabriel C de Angelo, Mohamad Zeidan, Mohamad Nadim
+                  
                 </p>
               </div>
             </CardContent>

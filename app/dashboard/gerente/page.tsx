@@ -100,7 +100,7 @@ export default function GerenteDashboardPage() {
       urgentes: urgentes.length,
       total: solicitacoes.length,
     })
-  }, [solicitacoes, user, logout])
+  }, [solicitacoes, user, logout, router])
 
   const handleRefresh = () => {
     setIsLoading(true)
