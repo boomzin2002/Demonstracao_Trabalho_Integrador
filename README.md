@@ -14,7 +14,7 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 Your project is live at:
 
-**[https://vercel.com/marcosvfd02-4651s-projects/v0-implementar-paginas](https://vercel.com/marcosvfd02-4651s-projects/v0-implementar-paginas)**
+
 
 ## Build your app
 
